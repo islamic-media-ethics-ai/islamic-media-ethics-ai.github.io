@@ -1,0 +1,26 @@
+image: ruby:3.3
+
+before_script:
+  - apt-get update -qq && apt-get install -y build-essential libpq-dev nodejs
+  - gem install bundler
+  - bundle install
+
+test:
+  stage: test
+  script:
+  - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+    - test
+  except:
+  - main
+
+pages:
+  stage: deploy
+  script:
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
