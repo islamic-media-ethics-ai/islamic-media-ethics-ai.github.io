@@ -1,3 +1,1 @@
-### Mikros, Georgios
-
 Principal Investigator

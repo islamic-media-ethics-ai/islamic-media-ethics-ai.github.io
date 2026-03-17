@@ -1,3 +1,1 @@
-### Jarrar, Mustafa
-
 Principal Investigator

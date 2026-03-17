@@ -1,3 +1,1 @@
-### Morssy, Noreldin
-
 Graduate Student

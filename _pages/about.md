@@ -8,26 +8,18 @@ selected_papers: true
 social: true
 ---
 
-This project, **Islamic Media Ethics in the Digital Age: AI-Powered Solutions for Combating Misinformation and Promoting Constructive Cross-Cultural Dialogue**, addresses misinformation, algorithmic bias, and digital polarization through an interdisciplinary approach combining Islamic media ethics with AI and NLP.
+This project, **Islamic Media Ethics in the Digital Age: AI-Powered Solutions for Combating Misinformation and Promoting Constructive Cross-Cultural Dialogue**, addresses misinformation, algorithmic bias, and digital polarization through an interdisciplinary framework that brings together Islamic media ethics, artificial intelligence, and natural language processing.
 
-The project develops culturally sensitive and practically deployable solutions beyond purely techno-solutionist approaches.
+Rather than relying on narrowly techno-solutionist models, the project develops culturally grounded and practically deployable interventions that are sensitive to religious diversity and social context.
 
-## Abstract
+Its key deliverables include an AI-powered Islamic fact-checking system that builds on QCRI’s expertise in Arabic NLP and is trained on authentic sources and intercultural ethical frameworks to counter misinformation responsibly. The project also advances a digital literacy campaign that integrates Islamic values with AI-enhanced educational tools to strengthen media literacy and support more constructive cross-cultural engagement across communities.
 
-This interdisciplinary project tackles misinformation, algorithmic bias, and digital polarization using Islamic media ethics integrated with AI/NLP technologies, developing culturally sensitive solutions beyond techno-solutionist models.
-
-Key deliverables include an AI-powered Islamic fact-checking system leveraging QCRI's Arabic NLP expertise, trained on authentic sources and intercultural frameworks to counter misinformation while respecting religious diversity. A digital literacy campaign integrates Islamic values with AI-enhanced educational tools to strengthen media literacy across communities.
-
-## Project Details
+<!-- ## Project Details
 
 - **Type:** Applied Research
 - **Status:** Active
 - **Effective dates:** July 10, 2025 to July 9, 2027
 - **Sponsor award number:** HBKU-INT-VPR-FRG-03-10
 - **Proposal ID:** HBKU-OVPR-FRG-03-7
-- **Submitting institute:** Hamad Bin Khalifa University (HBKU)
+- **Submitting institute:** Hamad Bin Khalifa University (HBKU) -->
 
-## Collaborative Partners
-
-- Hamad Bin Khalifa University (lead)
-- Doha Institute for Graduate Studies
