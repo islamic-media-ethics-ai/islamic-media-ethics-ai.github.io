@@ -197,6 +197,29 @@ html[data-theme="dark"] .post-header::after {
   font-weight: 700;
 }
 
+.profiles-page {
+  display: grid;
+  gap: 2rem;
+}
+
+.profiles-section {
+  display: grid;
+  gap: 1rem;
+}
+
+.profiles-section-title {
+  margin: 0;
+  font-family: "Fraunces", "Iowan Old Style", "Palatino Linotype", serif;
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  line-height: 1.2;
+}
+
+.profiles-section-description {
+  margin: -0.35rem 0 0;
+  max-width: 64ch;
+  color: var(--global-text-color-light);
+}
+
 .profiles {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

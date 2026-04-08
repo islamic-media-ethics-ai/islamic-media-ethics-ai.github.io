@@ -32,12 +32,6 @@ profiles:
       <p><a href="https://www.hbku.edu.qa/en/chss/staff/george-mikros
       ">Georgios Mikros</a></p>
 
-  - image: logan-cochrane.jpg
-    content: logan_cochrane.md
-    image_circular: true
-    more_info: >
-      <p><a href="https://www.hbku.edu.qa/en/staff/dr-logan-cochrane/">Dr. Logan Cochrane</a></p>
-
   - image: mahmoud-alhirthani.jpg
     content: mahmoud_alhirthani.md
     image_circular: true
@@ -55,6 +49,21 @@ profiles:
     image_circular: true
     more_info: >
       <p><a href="https://scholar.google.com/citations?user=1e2w_FoAAAAJ&hl=en/">Dr.Fadi Zaraket</a></p>
-      
+
+additional_profile_sections:
+  - title: Research Assistants and Contributors
+    description: 
+    profiles:
+      - image: avatar.png
+        content: noreldin_morssy.md
+        image_circular: true
+        more_info: >
+          <p>Noreldin Morssy</p>      
+      - image: gagan.jpeg
+        content: gagan_bhatia.md
+        image_circular: true
+        more_info: >
+          <p><a href="https://www.linkedin.com/in/gaganbhatiaml/">Gagan Bhatia</a></p>
+
 
 ---
