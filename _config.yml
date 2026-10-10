@@ -210,6 +210,8 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+future: true # include upcoming events before their scheduled dates
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
